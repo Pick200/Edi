@@ -1,5 +1,5 @@
 'use client'
-
+import * as THREE from 'three'
 import { useEffect, useRef } from 'react'
 
 export default function GlbViewer() {
